@@ -1,6 +1,8 @@
 # Global Carbon Emission and How to Reduce It
 
 This Power BI report analyzes global carbon emissions and explores potential reduction strategies. 
+![Carbon Emission and how to reduce](https://github.com/user-attachments/assets/3c0800b4-c277-409c-b064-daca327470cb)
+
 
 ## 📊 What is this report about?
 
